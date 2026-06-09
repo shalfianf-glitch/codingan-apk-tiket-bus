@@ -23,4 +23,4 @@
    Setelah proses sinkronisasi selesai, pengguna dapat menjalankan aplikasi dengan menekan tombol **Run** dan memilih emulator atau perangkat Android yang terhubung. Dengan demikian, aplikasi pemesanan tiket bus dapat diuji dan dikembangkan lebih lanjut.
 
 **Kesimpulan:**
-Berdasarkan screenshot tersebut, akses terhadap codingan dilakukan dengan membuka repository GitHub, melihat isi file proyek, mengunduh source code melalui tombol **Code**, kemudian membuka proyek di **Android Studio** untuk dijalankan atau dikembangkan sesuai kebutuhan.
+akses terhadap codingan dilakukan dengan membuka repository GitHub, melihat isi file proyek, mengunduh source code melalui tombol **Code**, kemudian membuka proyek di **Android Studio** untuk dijalankan atau dikembangkan sesuai kebutuhan.
