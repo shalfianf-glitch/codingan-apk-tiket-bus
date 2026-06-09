@@ -1,5 +1,5 @@
 # codingan-apk-tiket-bus
-Berdasarkan **tampilan repository GitHub** pada screenshot di atas, langkah-langkah seseorang untuk mengakses codingan aplikasi pemesanan tiket bus adalah sebagai berikut:
+ langkah-langkah seseorang untuk mengakses codingan aplikasi pemesanan tiket bus adalah sebagai berikut:
 
 1. **Membuka link repository GitHub**
    Pengguna terlebih dahulu membuka alamat repository, yaitu `https://github.com/shalfianf-glitch/codingan-apk-tiket-bus`, sehingga akan muncul halaman utama repository seperti pada gambar.
